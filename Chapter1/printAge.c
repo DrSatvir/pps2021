@@ -4,6 +4,5 @@ void main()
   int age;
   printf("Enter your age: ");
   scanf("%d", &age);
-  printf("You age is %d", age);
-  return 0;
+  printf("Your age is %d", age);
 }
